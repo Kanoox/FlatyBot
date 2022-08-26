@@ -1,5 +1,7 @@
 -- Kanoox#9999
--- Paysan - Alchimiste - Bucheron V1.2 
+-- V1.1 faite par FlatyUser
+-- V1.2 faite par FlatyUser
+-- Paysan - Alchimiste - Bucheron V1.3
 -- Edit Par Kanoox#9999 / Crée par : @FlatyUser
 -- Version 1.3 par Kanoox : Correction bug retour zaap Astrub.
 
