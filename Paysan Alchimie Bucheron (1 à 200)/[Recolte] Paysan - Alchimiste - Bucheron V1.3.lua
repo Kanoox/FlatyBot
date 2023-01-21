@@ -21,9 +21,10 @@ botcurrentpods = inventory:podsP()
 
 global:printMessage("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
 global:printMessage("Type de trajet: Multi-Recolte | 1-200")
-global:printMessage("Version du trajet: 1.0")
-global:printMessage("Auteur: @FlatyUser")
+global:printMessage("Version du trajet: 1.3")
+global:printMessage("Auteur: @Kanoox")
 global:printMessage("Somaire: [ZAAP] = Mouvement ZAAP | [INFO] = Informations/Logs | [BOT] = Routine du BOT")
+global:printMessage("Kanoox#9999 - Création de script FlatyBot / SnowBot sur mesure.")
 
 global:printMessage("--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
 global:printMessage("[INFO] Nom du bot: [" .. botname .. "]")
