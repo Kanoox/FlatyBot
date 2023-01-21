@@ -2,6 +2,8 @@
 -- #Version 2.0 : Bonta corrigé /🆗
 -- #Version 2.1 Brâkmar corrigé /🆗
 
+global:printMessage("Kanoox#9999 - Création de script FlatyBot / SnowBot sur mesure.")
+
 function brakmarr()
     global:clickPosition(639, 385)
 end
